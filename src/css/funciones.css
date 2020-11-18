@@ -1,0 +1,7 @@
+/* En Webpack podemos configurar que solo cargue los archivos css
+que necesite en ese momento mi aplicación, de tal modo que el tiempo
+de carga se reduzca. */
+
+h1 {
+    color: #F0FFF3;
+}

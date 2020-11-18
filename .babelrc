@@ -1,0 +1,6 @@
+{
+    "presets": [
+        /* Configuración para hacer que nuestro código moderno de JavaScript sea compatible con otros Navegadores */
+        "@babel/preset-env"
+    ]
+}

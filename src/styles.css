@@ -1,0 +1,8 @@
+/* Aquí se van a encontrar nuestros estilos globales, cabe recalcar que este
+archivo se crea a la altura de la carpeta 'src', esto se así por convención,
+pero puede estar en cualquier ubicación de nuestra aplicación */
+
+html, body{
+    background-color: #1FAB89;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

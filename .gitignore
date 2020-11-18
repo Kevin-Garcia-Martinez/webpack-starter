@@ -1,0 +1,4 @@
+# Indicaremos los archivos que no se subirán al repositorio, es decir
+# git no se le dará seguimiento 
+node_modules/
+dist/
